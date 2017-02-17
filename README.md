@@ -1,5 +1,6 @@
 #Aztec Metdata Extraction Service
 The Aztec Metadata Extraction Service is a RESTful web-service that packages the following pipeline:
+
 1. Converts a PDF to text
 2. Classify the article (Tool or Non-tool)
 3. Extract relevant metadata if the PDF is a scientific publication about a tool
