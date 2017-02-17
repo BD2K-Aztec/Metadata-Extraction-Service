@@ -1,0 +1,9 @@
+flask==0.12.0
+sklearn==0.18.1
+nltk==3.2.2
+scipy==0.18.1
+numpy==1.12.0
+matplotlib=2.0.0
+pysolr4==0.0.1
+virtualenv==15.0.3
+
